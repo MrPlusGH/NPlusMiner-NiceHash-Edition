@@ -3,7 +3,7 @@ Copyright (c) 2018 MrPlus	(https://github.com/MrPlusGH/NPlusMiner)
 Copyright (c) 2018 Nemo		(https://github.com/nemosminer/NemosMiner)
 
 ![alt text](https://www.nicehash.com/images/media/logo_big_light.png)
- # NPlusMiner ZergPool Edition
+ # NPlusMiner NiceHash Edition
   
  Readme Updated 2019 February 5
  
@@ -18,6 +18,10 @@ Copyright (c) 2018 Nemo		(https://github.com/nemosminer/NemosMiner)
 **For more help and HowTos please check our wiki here** : https://github.com/MrPlusGH/NPlusMiner-Documentation/wiki
 BitcoinTalk : https://bitcointalk.org/index.php?topic=2965976.0
 *****
+
+**Note: This software is not linked to NiceHash in any way.
+We are not thinking we transgress any trademark or other rules.
+If you think so please let us know.**
 
 For details on NPlusMiner please refer to https://github.com/MrPlusGH/NPlusMiner/blob/master/README.md
 ![alt text](https://raw.githubusercontent.com/MrPlusGH/NPlusMiner-NiceHash-Edition/master/Utils/screenshot.jpg)
