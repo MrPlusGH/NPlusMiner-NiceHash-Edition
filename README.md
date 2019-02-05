@@ -1,0 +1,1 @@
+# NPlusMiner-NiceHash-Edition
