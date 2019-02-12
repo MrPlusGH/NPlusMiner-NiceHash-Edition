@@ -2,8 +2,8 @@ Copyright (c) 2018 MrPlus	(https://github.com/MrPlusGH/NPlusMiner)
 
 Copyright (c) 2018 Nemo		(https://github.com/nemosminer/NemosMiner)
 
-
 <img src="https://www.nicehash.com/images/media/logo_big_light.png" alt="drawing" width="200"/>
+
  # NPlusMiner NiceHash Edition
   
  Readme Updated 2019 February 5
