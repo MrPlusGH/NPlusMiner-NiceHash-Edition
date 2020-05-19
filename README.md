@@ -17,6 +17,8 @@ Copyright (c) 2018 Nemo		(https://github.com/Minerx117/NemosMiner)
 
 [Click to Join Discord](https://discord.gg/2BCqPxe)
 
+**Note: This software is not linked to NiceHash in any way. We are not thinking we transgress any trademark or other rules. If you think so please let us know.**
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/MrPlusGH/NPlusMiner/master/Utils/Screenshot.jpg">	
 </p>
